@@ -1,7 +1,6 @@
 package template.api.template_api_rest_postgres.Mapper;
 
 import template.api.template_api_rest_postgres.Entity.User;
-import jakarta.persistence.Id;
 import template.api.template_api_rest_postgres.Dto.UserDto;
 
 public class UserMapper {

@@ -1,8 +1,6 @@
 package template.api.template_api_rest_postgres.Entity;
 
 import java.util.Date;
-
-import jakarta.annotation.Generated;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Column;
 import jakarta.persistence.GeneratedValue;
